@@ -1,0 +1,6 @@
+[submodule "eosio.nft"]
+	path = contracts/eosio.nft
+	url = git@github.com:rozgo/eosio.nft.git
+[submodule "eosdactoken"]
+	path = contracts/eosdactoken
+	url = git@github.com:rozgo/eosdactoken.git
